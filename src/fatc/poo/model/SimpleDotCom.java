@@ -30,5 +30,9 @@ public class SimpleDotCom {
         System.out.println(result);
         return result;
     }
+
+    public int getNumOfHits() {
+        return numOfHits;
+    }
     
 }
